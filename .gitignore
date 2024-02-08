@@ -1,0 +1,4 @@
+# Project exclude paths
+/ManyToMany/target/
+/oneToMany/target/
+/oneToOne/target/
