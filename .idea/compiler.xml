@@ -6,10 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="HQL" />
         <module name="oneToOne" />
         <module name="ManyToMany" />
         <module name="oneToMany" />
+        <module name="Eager-Fletching" />
+        <module name="Lazy-Fetching" />
+        <module name="SQL" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EagerFetching" target="1.5" />
+      <module name="EagerFetching1" target="1.8" />
+      <module name="EagerFetching_" target="1.8" />
+      <module name="Hql" target="1.8" />
+      <module name="Sql" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

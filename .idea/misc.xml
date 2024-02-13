@@ -7,11 +7,27 @@
         <option value="$PROJECT_DIR$/oneToOne/pom.xml" />
         <option value="$PROJECT_DIR$/oneToMany/pom.xml" />
         <option value="$PROJECT_DIR$/ManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/EagerFetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Sql/pom.xml" />
+        <option value="$PROJECT_DIR$/Hql/pom.xml" />
+        <option value="$PROJECT_DIR$/EagerFetching1/pom.xml" />
+        <option value="$PROJECT_DIR$/Eager-Fletching/pom.xml" />
+        <option value="$PROJECT_DIR$/Lazy-Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/EagerFetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Hql/pom.xml" />
+        <option value="$PROJECT_DIR$/LazyFetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Sql/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
